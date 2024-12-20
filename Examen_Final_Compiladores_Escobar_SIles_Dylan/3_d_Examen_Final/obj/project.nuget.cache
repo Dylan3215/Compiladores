@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCl9MVw8SFEPe8T+4b4TCsiPnkIN1fIY/JAnpNBpDXlmsEh5jMTxdlq+l2jGpMmArNtusUI7weeGeicOHgLYBg==",
+  "success": true,
+  "projectFilePath": "/home/dylan32/Ejercicios vsc/3_d_Examen_Final/3_d_Examen_Final.csproj",
+  "expectedPackageFiles": [
+    "/home/dylan32/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

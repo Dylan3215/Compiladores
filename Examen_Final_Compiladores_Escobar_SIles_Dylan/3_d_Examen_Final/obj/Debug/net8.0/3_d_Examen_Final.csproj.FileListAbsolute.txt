@@ -1,0 +1,14 @@
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.AssemblyInfoInputs.cache
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.AssemblyInfo.cs
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.csproj.CoreCompileInputs.cache
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/bin/Debug/net8.0/3_d_Examen_Final
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/bin/Debug/net8.0/3_d_Examen_Final.deps.json
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/bin/Debug/net8.0/3_d_Examen_Final.runtimeconfig.json
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/bin/Debug/net8.0/3_d_Examen_Final.dll
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/bin/Debug/net8.0/3_d_Examen_Final.pdb
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.dll
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/refint/3_d_Examen_Final.dll
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.pdb
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/3_d_Examen_Final.genruntimeconfig.cache
+/home/dylan32/Ejercicios vsc/3_d_Examen_Final/obj/Debug/net8.0/ref/3_d_Examen_Final.dll
